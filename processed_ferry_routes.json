@@ -1,0 +1,464 @@
+{
+  "routes": [
+    {
+      "Name": "Sandfill - Ibeshe",
+      "Ferry_Stops_List": "13",
+      "Ferry_Route_ID": 8,
+      "Coordinates": [
+        [
+          3.4728735,
+          6.5523891
+        ]
+      ]
+    },
+    {
+      "Name": "Sandfill - Baiyeku",
+      "Ferry_Stops_List": "19",
+      "Ferry_Route_ID": 9,
+      "Coordinates": [
+        [
+          3.553069,
+          6.536139
+        ]
+      ]
+    },
+    {
+      "Name": "Marina/CMS - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 10,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Liverpool(Apapa) - Marina/CMS - Ebute Ero",
+      "Ferry_Stops_List": "17,16",
+      "Ferry_Route_ID": 11,
+      "Coordinates": [
+        [
+          3.3897946,
+          6.4495709
+        ],
+        [
+          3.3824812,
+          6.462741
+        ]
+      ]
+    },
+    {
+      "Name": "Alex Apapa/Allens Unit Jetty - Sagbokoji",
+      "Ferry_Stops_List": "42",
+      "Ferry_Route_ID": 12,
+      "Coordinates": [
+        [
+          3.3834109,
+          6.434112
+        ]
+      ]
+    },
+    {
+      "Name": "Alex Apapa/Allens Unit Jetty - KabaKaba",
+      "Ferry_Stops_List": "39",
+      "Ferry_Route_ID": 13,
+      "Coordinates": [
+        [
+          3.3733927,
+          6.4311226
+        ]
+      ]
+    },
+    {
+      "Name": "Sandfill - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 14,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Liverpool(Apapa) - Sagbokoji - Ito Agan - Tamaro",
+      "Ferry_Stops_List": "42,37,38",
+      "Ferry_Route_ID": 15,
+      "Coordinates": [
+        [
+          3.3834109,
+          6.434112
+        ],
+        [
+          3.3837602,
+          6.4326195
+        ],
+        [
+          3.3657654,
+          6.4156974
+        ]
+      ]
+    },
+    {
+      "Name": "Marina/CMS - Ogogoro - Sagbokoji",
+      "Ferry_Stops_List": "38,42",
+      "Ferry_Route_ID": 16,
+      "Coordinates": [
+        [
+          3.3657654,
+          6.4156974
+        ],
+        [
+          3.3834109,
+          6.434112
+        ]
+      ]
+    },
+    {
+      "Name": "Five Cowries - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 17,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Five Cowries - Ibeshe",
+      "Ferry_Stops_List": "13",
+      "Ferry_Route_ID": 18,
+      "Coordinates": [
+        [
+          3.4728735,
+          6.5523891
+        ]
+      ]
+    },
+    {
+      "Name": "Five Cowries - Offin",
+      "Ferry_Stops_List": "12",
+      "Ferry_Route_ID": 19,
+      "Coordinates": [
+        [
+          3.5010197,
+          6.5393273
+        ]
+      ]
+    },
+    {
+      "Name": "Five Cowries - Baiyeku",
+      "Ferry_Stops_List": "19",
+      "Ferry_Route_ID": 20,
+      "Coordinates": [
+        [
+          3.553069,
+          6.536139
+        ]
+      ]
+    },
+    {
+      "Name": "Five Cowries - Ijede",
+      "Ferry_Stops_List": "30",
+      "Ferry_Route_ID": 21,
+      "Coordinates": [
+        [
+          3.5890471,
+          6.5632172
+        ]
+      ]
+    },
+    {
+      "Name": "Ikorodu - Lekki(Alluvia) - Sandfill - Five Cowries",
+      "Ferry_Stops_List": "68,76,18",
+      "Ferry_Route_ID": 22,
+      "Coordinates": [
+        [
+          3.4590768,
+          6.4475959
+        ],
+        [
+          3.4418,
+          6.43684
+        ],
+        [
+          3.427176,
+          6.4421
+        ]
+      ]
+    },
+    {
+      "Name": "Offin - Ebute Ero - Marina/CMS",
+      "Ferry_Stops_List": "16,17",
+      "Ferry_Route_ID": 23,
+      "Coordinates": [
+        [
+          3.3824812,
+          6.462741
+        ],
+        [
+          3.3897946,
+          6.4495709
+        ]
+      ]
+    },
+    {
+      "Name": "Offin - Sandfill - Falomo",
+      "Ferry_Stops_List": "76,18",
+      "Ferry_Route_ID": 24,
+      "Coordinates": [
+        [
+          3.4418,
+          6.43684
+        ],
+        [
+          3.427176,
+          6.4421
+        ]
+      ]
+    },
+    {
+      "Name": "Sandfill - Offin",
+      "Ferry_Stops_List": "12",
+      "Ferry_Route_ID": 25,
+      "Coordinates": [
+        [
+          3.5010197,
+          6.5393273
+        ]
+      ]
+    },
+    {
+      "Name": "Sandfill - Ijede",
+      "Ferry_Stops_List": "30",
+      "Ferry_Route_ID": 26,
+      "Coordinates": [
+        [
+          3.5890471,
+          6.5632172
+        ]
+      ]
+    },
+    {
+      "Name": "Apapa flour mill - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 27,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Ibeshe - Lekki(Alluvia) - Sandfill - Falomo - Boat Club - Marina/CMS",
+      "Ferry_Stops_List": "68,76,18,35,17",
+      "Ferry_Route_ID": 28,
+      "Coordinates": [
+        [
+          3.4590768,
+          6.4475959
+        ],
+        [
+          3.4418,
+          6.43684
+        ],
+        [
+          3.427176,
+          6.4421
+        ],
+        [
+          3.409454,
+          6.4429111
+        ],
+        [
+          3.3897946,
+          6.4495709
+        ]
+      ]
+    },
+    {
+      "Name": "Oke Ira Nla(Ajah) - Baiyeku",
+      "Ferry_Stops_List": "19",
+      "Ferry_Route_ID": 29,
+      "Coordinates": [
+        [
+          3.553069,
+          6.536139
+        ]
+      ]
+    },
+    {
+      "Name": "Alex Apapa/Allens Unit Jetty - Manager",
+      "Ferry_Stops_List": "69",
+      "Ferry_Route_ID": 30,
+      "Coordinates": [
+        [
+          3.370626,
+          6.4299577
+        ]
+      ]
+    },
+    {
+      "Name": "Coconut Landing - Igbologun",
+      "Ferry_Stops_List": "11",
+      "Ferry_Route_ID": 31,
+      "Coordinates": [
+        [
+          3.332939,
+          6.4274246
+        ]
+      ]
+    },
+    {
+      "Name": "Ketu - Agboyi 1 -  Agboyi 2 - Agoyi 3 - Oko Agbon",
+      "Ferry_Stops_List": "79,67,66",
+      "Ferry_Route_ID": 32,
+      "Coordinates": [
+        [
+          3.4081684,
+          6.5824155
+        ],
+        [
+          3.4084039,
+          6.5802865
+        ],
+        [
+          3.4108125,
+          6.5798309
+        ]
+      ]
+    },
+    {
+      "Name": "Ijede - Badore",
+      "Ferry_Stops_List": "34",
+      "Ferry_Route_ID": 34,
+      "Coordinates": [
+        [
+          3.614953,
+          6.512124
+        ]
+      ]
+    },
+    {
+      "Name": "Ebute Ero - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 35,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Liverpool(Apapa) - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 36,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Marina/CMS - Ikorodu",
+      "Ferry_Stops_List": "20",
+      "Ferry_Route_ID": 37,
+      "Coordinates": [
+        [
+          3.4862304,
+          6.601832
+        ]
+      ]
+    },
+    {
+      "Name": "Marina/CMS - Liverpool(Apapa)",
+      "Ferry_Stops_List": "15",
+      "Ferry_Route_ID": 38,
+      "Coordinates": [
+        [
+          3.3592365,
+          6.4390793
+        ]
+      ]
+    },
+    {
+      "Name": "Apapa flour mill - Marina/CMS",
+      "Ferry_Stops_List": "17",
+      "Ferry_Route_ID": 39,
+      "Coordinates": [
+        [
+          3.3897946,
+          6.4495709
+        ]
+      ]
+    },
+    {
+      "Name": "Ikorodu \u2013 Ebute Ero \u2013 Marina/CMS",
+      "Ferry_Stops_List": "17",
+      "Ferry_Route_ID": 41,
+      "Coordinates": [
+        [
+          3.3897946,
+          6.4495709
+        ]
+      ]
+    },
+    {
+      "Name": "Badore - Addax - Five Cowries",
+      "Ferry_Stops_List": "76,18",
+      "Ferry_Route_ID": 42,
+      "Coordinates": [
+        [
+          3.4418,
+          6.43684
+        ],
+        [
+          3.427176,
+          6.4421
+        ]
+      ]
+    },
+    {
+      "Name": "Ikorodu - Sandfill - Five Cowries",
+      "Ferry_Stops_List": "76,18",
+      "Ferry_Route_ID": 44,
+      "Coordinates": [
+        [
+          3.4418,
+          6.43684
+        ],
+        [
+          3.427176,
+          6.4421
+        ]
+      ]
+    },
+    {
+      "Name": "Alluvia - Tarkwa Bay",
+      "Ferry_Stops_List": "23",
+      "Ferry_Route_ID": 45,
+      "Coordinates": [
+        [
+          3.3952306,
+          6.4070846
+        ]
+      ]
+    },
+    {
+      "Name": "Coconut Landing - Snake Island",
+      "Ferry_Stops_List": "60",
+      "Ferry_Route_ID": 46,
+      "Coordinates": [
+        [
+          3.3345456,
+          6.4274326
+        ]
+      ]
+    }
+  ]
+}
