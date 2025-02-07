@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ferry Routes Map</title>
+    
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.3/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.3/dist/leaflet.js"></script>
+    
+    <style>
+        #map { height: 600px; width: 100%; }
+    </style>
+</head>
+<body>
+
+    <div id="map"></div>
+
+    <script>
+        var map = L.map('map').setView([6.5244, 3.3792], 12);
+
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        var routeLayers = {};
+        var terminalMarkers = {};
+        var terminalToRoutes = {};
+
+        async function loadFerryData() {
+        
+          const terminalsURL = "https://raw.githubusercontent.com/hannahkates/lagos-ferry-data/refs/heads/main/processed_ferry_terminals.json";
+          const routesURL = "https://raw.githubusercontent.com/hannahkates/lagos-ferry-data/refs/heads/main/processed_ferry_route.json";
+          const routesFeaturesURL = "https://raw.githubusercontent.com/hannahkates/lagos-ferry-data/refs/heads/main/processed_ferry_routes_features.json";
+
+          const proxyUrl = "https://api.allorigins.win/get?url=";
+        
+            try {
+                const terminalsURLCORS = proxyUrl + encodeURIComponent(terminalsURL);
+                const routesURLCORS = proxyUrl + encodeURIComponent(routesURL);
+                const routesFeaturesURLCORS = proxyUrl + encodeURIComponent(routesFeaturesURL);  
+                
+                console.log(terminalsURLCORS);
+
+                const [terminalsResponse, routesResponse, routesFeaturesResponse] = await Promise.all([
+                    fetch(terminalsURLCORS),
+                    fetch(routesURLCORS),
+                    fetch(routesFeaturesURLCORS)
+                ]);
+                
+                console.log(terminalsResponse);
+         
+                const terminalsData = await terminalsResponse.json();
+                const routesData = await routesResponse.json();
+                const routesFeaturesData = await routesFeaturesResponse.json();
+
+                // Build mapping of terminal IDs to their routes
+                routesFeaturesData.routes_features.forEach(feature => {
+                    var terminalId = feature.terminal_id;
+                    var routeId = feature.Ferry_Route_ID;
+
+                    if (!terminalToRoutes[terminalId]) {
+                        terminalToRoutes[terminalId] = [];
+                    }
+                    if (!terminalToRoutes[terminalId].includes(routeId)) {
+                        terminalToRoutes[terminalId].push(routeId);
+                    }
+                });
+
+                // Add routes to the map
+                routesData.routes.forEach(route => {
+                    var polyline = L.polyline(
+                        route.Coordinates.map(coord => [coord[1], coord[0]]), 
+                        { color: "#2b2b2b", weight: 2, opacity: 0.5 }
+                    ).addTo(map);  // Ensure polylines are added to the map
+
+                    routeLayers[route.Ferry_Route_ID] = polyline;
+                });
+
+                // Add terminals to the map
+                terminalsData.terminals.forEach(terminal => {
+                    var marker = L.circleMarker(
+                        [terminal.Coordinates[1], terminal.Coordinates[0]],
+                        { radius: 6, color: "#007cbf", fill: true, fillColor: "#007cbf", fillOpacity: 1 }
+                    ).addTo(map).bindPopup(`<b>${terminal.Name}</b>`);
+
+                    terminalMarkers[terminal.Ferry_Stop_ID] = marker;
+
+                    marker.on("click", function () {
+                        highlightRoutes(terminal.Ferry_Stop_ID);
+                    });
+                });
+
+            } catch (error) {
+                console.error("Error loading ferry data:", error);
+            }
+        }
+
+        function highlightRoutes(terminalId) {
+            // Reset all routes to default
+            Object.values(routeLayers).forEach(layer => layer.setStyle({ color: "#2b2b2b", opacity: 0.3, weight: 2 }));
+
+            // Highlight only routes associated with this terminal
+            if (terminalToRoutes[terminalId]) {
+                terminalToRoutes[terminalId].forEach(routeId => {
+                    if (routeLayers[routeId]) {
+                        routeLayers[routeId].setStyle({ color: "#ff0000", opacity: 1, weight: 4 });
+                    }
+                });
+            }
+        }
+
+        loadFerryData();
+    </script>
+
+</body>
+</html>
