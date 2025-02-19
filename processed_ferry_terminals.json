@@ -1,644 +1,1285 @@
 {
-  "terminals": [
-    {
-      "Ferry_Stop_ID": 1,
-      "Name": "Origin jetty",
-      "Coordinates": [
-        3.4807669,
-        6.6071459
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 2,
-      "Name": "Lekki Ferry Jetty",
-      "Coordinates": [
-        3.4670774,
-        6.447966
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 3,
-      "Name": "Ijora Landing",
-      "Coordinates": [
-        3.3703011,
-        6.4670409
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 4,
-      "Name": "Muller Jetty",
-      "Coordinates": [
-        3.3890667,
-        6.4353942
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 5,
-      "Name": "Mainland Jetty Iddo",
-      "Coordinates": [
-        3.3845329,
-        6.4705735
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 6,
-      "Name": "Liberty Jetty",
-      "Coordinates": [
-        3.3840325,
-        6.452604
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 7,
-      "Name": "Oworonsoki Jetty",
-      "Coordinates": [
-        3.4068744,
-        6.5482938
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 8,
-      "Name": "Lagos Regatta / Lagos State Jetty",
-      "Coordinates": [
-        3.4338209,
-        6.4432653
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 9,
-      "Name": "Oju-Agemo Jetty Imota",
-      "Coordinates": [
-        3.6610244,
-        6.5733152
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 10,
-      "Name": "Apapa Flour Mill Jetty",
-      "Coordinates": [
-        3.3749839,
-        6.4475379
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 11,
-      "Name": "Igbologun Jetty",
-      "Coordinates": [
-        3.332939,
-        6.4274246
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 12,
-      "Name": "Offin Jetty, Ikorodu",
-      "Coordinates": [
-        3.5010197,
-        6.5393273
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 13,
-      "Name": "Ibeshe Ferry Terminal/Thesaurus Ferry Terminal",
-      "Coordinates": [
-        3.4728735,
-        6.5523891
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 14,
-      "Name": "Mile 2 / NIWA jetty",
-      "Coordinates": [
-        3.3077366,
-        6.4590664
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 15,
-      "Name": "Liverpool (Apapa)",
-      "Coordinates": [
-        3.3592365,
-        6.4390793
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 16,
-      "Name": "Ebute Ero",
-      "Coordinates": [
-        3.3824812,
-        6.462741
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 17,
-      "Name": "Marina/CMS",
-      "Coordinates": [
-        3.3897946,
-        6.4495709
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 18,
-      "Name": "Five Cowries/Falomo/Ise Water",
-      "Coordinates": [
-        3.427176,
-        6.4421
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 19,
-      "Name": "Baiyeku Jetty",
-      "Coordinates": [
-        3.553069,
-        6.536139
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 20,
-      "Name": "Ikorodu Ferry Terminal",
-      "Coordinates": [
-        3.4862304,
-        6.601832
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 21,
-      "Name": "Ilado Waterfront Jetty",
-      "Coordinates": [
-        3.3812819,
-        6.4312304
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 22,
-      "Name": "Agboyi Ketu",
-      "Coordinates": [
-        3.4075406,
-        6.5825306
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 23,
-      "Name": "Tarkwa Bay Terminal",
-      "Coordinates": [
-        3.3952306,
-        6.4070846
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 24,
-      "Name": "Epe Marina",
-      "Coordinates": [
-        3.9775399,
-        6.5776476
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 25,
-      "Name": "Ebute Lekki",
-      "Coordinates": [
-        3.4670405,
-        6.4479942
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 26,
-      "Name": "White Sand Oyingbo",
-      "Coordinates": [
-        3.3883303,
-        6.4769088
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 27,
-      "Name": "Amuwo jetty Ojo",
-      "Coordinates": [
-        3.2035374,
-        6.453853
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 28,
-      "Name": "Apa Waterfront Badagry",
-      "Coordinates": [
-        2.8246502,
-        6.4375869
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 29,
-      "Name": "VIP Charlet Waterfront Badagry",
-      "Coordinates": [
-        2.9006206,
-        6.4095965
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 30,
-      "Name": "Ijede Jetty",
-      "Coordinates": [
-        3.5890471,
-        6.5632172
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 31,
-      "Name": "Oke Ira-Nla Jetty",
-      "Coordinates": [
-        3.5792354,
-        6.4905465
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 32,
-      "Name": "Ebute Ero",
-      "Coordinates": [
-        3.3825039,
-        6.4628531
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 33,
-      "Name": "Mile 2",
-      "Coordinates": [
-        3.3085751,
-        6.4582755
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 34,
-      "Name": "Badore Ferry Terminal",
-      "Coordinates": [
-        3.614953,
-        6.512124
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 35,
-      "Name": "Boat Club",
-      "Coordinates": [
-        3.409454,
-        6.4429111
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 36,
-      "Name": "Ogogoro Village",
-      "Coordinates": [
-        3.3941357,
-        6.4282422
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 37,
-      "Name": "Ito Agan",
-      "Coordinates": [
-        3.3837602,
-        6.4326195
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 38,
-      "Name": "Tamaro",
-      "Coordinates": [
-        3.3657654,
-        6.4156974
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 39,
-      "Name": "KabaKaba Jetty",
-      "Coordinates": [
-        3.3733927,
-        6.4311226
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 40,
-      "Name": "Ilashe Jetty",
-      "Coordinates": [
-        3.2055711,
-        6.40667
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 41,
-      "Name": "Ganyingbo Topa Waterways Jetty",
-      "Coordinates": [
-        2.8522655,
-        6.423654
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 42,
-      "Name": "Sagbokoji Jetty",
-      "Coordinates": [
-        3.3834109,
-        6.434112
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 43,
-      "Name": "Slave Route Landing",
-      "Coordinates": [
-        2.8836426,
-        6.4113884
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 44,
-      "Name": "Tarkwa Bay Jetty",
-      "Coordinates": [
-        3.3965995,
-        6.4010654
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 45,
-      "Name": "Tolu Ajegunle",
-      "Coordinates": [
-        3.3547922,
-        6.4396574
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 46,
-      "Name": "Eputu Jetty",
-      "Coordinates": [
-        3.7151988,
-        6.4828966
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 47,
-      "Name": "Ijon Jetty",
-      "Coordinates": [
-        3.201736,
-        6.5631978
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 48,
-      "Name": "Abomiti-Nla Epe",
-      "Coordinates": [
-        4.0965242,
-        6.5132175
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 49,
-      "Name": "Irewe Jetty Ojo",
-      "Coordinates": [
-        3.152976,
-        6.4244696
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 50,
-      "Name": "Akarakumo Jetty",
-      "Coordinates": [
-        2.9544192,
-        6.4107553
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 51,
-      "Name": "Olowo Jetty",
-      "Coordinates": [
-        3.3683852,
-        6.4335996
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 52,
-      "Name": "Epeme Jetty",
-      "Coordinates": [
-        3.0504744,
-        6.4161449
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 53,
-      "Name": "Tekunle Epe Jetty",
-      "Coordinates": [
-        3.9908226,
-        6.5821311
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 54,
-      "Name": "Igbogbele Jetty Badagry",
-      "Coordinates": [
-        2.7798856,
-        6.4432466
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 55,
-      "Name": "Emina-Saga Jetty Epe",
-      "Coordinates": [
-        4.0828507,
-        6.5463207
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 56,
-      "Name": "Topo Island Badagry",
-      "Coordinates": [
-        2.9313645,
-        6.4085379
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 57,
-      "Name": "Ejirin Jetty, Agbowa/Ikosi",
-      "Coordinates": [
-        3.7062782,
-        6.6124534
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 58,
-      "Name": "Iworo Ajido",
-      "Coordinates": [
-        3.0078911,
-        6.4137857
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 59,
-      "Name": "Etegbin Jetty",
-      "Coordinates": [
-        3.143799,
-        6.4496615
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 60,
-      "Name": "Snake Island Jetty",
-      "Coordinates": [
-        3.3345456,
-        6.4274326
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 61,
-      "Name": "Tin Can Island Jetty",
-      "Coordinates": [
-        3.3379092,
-        6.4308708
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 62,
-      "Name": "Tarzan Jetty",
-      "Coordinates": [
-        3.6054388,
-        6.5151312
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 63,
-      "Name": "Osborne Ferry Terminal",
-      "Coordinates": [
-        3.4174567,
-        6.4641704
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 64,
-      "Name": "Ebute Ojo/Sifax Ferry Terminal",
-      "Coordinates": [
-        3.2055781,
-        6.453045
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 65,
-      "Name": "Ijegun Egba",
-      "Coordinates": [
-        3.258691,
-        6.427831
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 66,
-      "Name": "Agboyi 3/Oko Agbon",
-      "Coordinates": [
-        3.4108125,
-        6.5798309
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 67,
-      "Name": "Agboyi 2 stop",
-      "Coordinates": [
-        3.4084039,
-        6.5802865
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 68,
-      "Name": "Alluvia Marine Jetty/Afisco Jetty",
-      "Coordinates": [
-        3.4590768,
-        6.4475959
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 69,
-      "Name": "Manager Jetty",
-      "Coordinates": [
-        3.370626,
-        6.4299577
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 70,
-      "Name": "Coconut Landing",
-      "Coordinates": [
-        3.3358558,
-        6.4379208
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 71,
-      "Name": "Allens Unit / Alex Apapa Jetty",
-      "Coordinates": [
-        3.3700913,
-        6.4346659
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 72,
-      "Name": "Bariga Waterfront Jetty",
-      "Coordinates": [
-        3.3999032,
-        6.528356
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 73,
-      "Name": "Ferry Port/Checkpoint Jetty",
-      "Coordinates": [
-        3.4041996,
-        6.4405074
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 74,
-      "Name": "Oke Ira Nla (Ajah Jetty)",
-      "Coordinates": [
-        3.580022,
-        6.4899975
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 75,
-      "Name": "Agboyi Ketu Jetty",
-      "Coordinates": [
-        3.407633,
-        6.5823332
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 76,
-      "Name": "Addax/Sandfill/Maroko Jetty",
-      "Coordinates": [
-        3.4418,
-        6.43684
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 77,
-      "Name": "Ijede Jetty",
-      "Coordinates": [
-        3.5893751,
-        6.5631737
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 78,
-      "Name": "Olookan stop",
-      "Coordinates": [
-        3.4096146,
-        6.5796628
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 79,
-      "Name": "Agboyi 1 stop",
-      "Coordinates": [
-        3.4081684,
-        6.5824155
-      ]
-    },
-    {
-      "Ferry_Stop_ID": 80,
-      "Name": "Ajah Jetty",
-      "Coordinates": [
-        3.561368482648124,
-        6.474177789377767
-      ]
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 1,
+        "operator": "Public",
+        "name": "Origin jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4807669,
+          6.6071459,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 2,
+        "operator": "Public",
+        "name": "Lekki Ferry Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4670774,
+          6.447966,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 3,
+        "operator": "Private",
+        "name": "Ijora Landing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3703011,
+          6.4670409,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 4,
+        "operator": "Private",
+        "name": "Muller Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3890667,
+          6.4353942,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 5,
+        "operator": "Private",
+        "name": "Mainland Jetty Iddo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3845329,
+          6.4705735,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 6,
+        "operator": "Private",
+        "name": "Liberty Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3840325,
+          6.452604,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 7,
+        "operator": "Public",
+        "name": "Oworonsoki Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4068744,
+          6.5482938,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 8,
+        "operator": "Public",
+        "name": "Lagos Regatta / Lagos State Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4338209,
+          6.4432653,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 9,
+        "operator": "Private",
+        "name": "Oju-Agemo Jetty Imota"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6610244,
+          6.5733152,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 10,
+        "operator": "Private",
+        "name": "Apapa Flour Mill Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3749839,
+          6.4475379,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 11,
+        "operator": "Private",
+        "name": "Igbologun Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.332939,
+          6.4274246,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 12,
+        "operator": "Private",
+        "name": "Offin Jetty, Ikorodu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5010197,
+          6.5393273,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 13,
+        "operator": "Public",
+        "name": "Ibeshe Ferry Terminal/Thesaurus Ferry Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4728735,
+          6.5523891,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 14,
+        "operator": "Public",
+        "name": "Mile 2 / NIWA jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3077366,
+          6.4590664,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 15,
+        "operator": "Private",
+        "name": "Liverpool (Apapa)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3592365,
+          6.4390793,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 16,
+        "operator": "Public",
+        "name": "Ebute Ero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3824812,
+          6.462741,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 17,
+        "operator": "Private",
+        "name": "Marina/CMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3897946,
+          6.4495709,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 18,
+        "operator": "Public",
+        "name": "Five Cowries/Falomo/Ise Water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.427176,
+          6.4421,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 19,
+        "operator": "Private",
+        "name": "Baiyeku Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553069,
+          6.536139,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 20,
+        "operator": "Private",
+        "name": "Ikorodu Ferry Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4862304,
+          6.601832,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 21,
+        "operator": "Private",
+        "name": "Ilado Waterfront Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3812819,
+          6.4312304,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 22,
+        "operator": "Private",
+        "name": "Agboyi Ketu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4075406,
+          6.5825306,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 23,
+        "operator": "Private",
+        "name": "Tarkwa Bay Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3952306,
+          6.4070846,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 24,
+        "operator": "Private",
+        "name": "Epe Marina"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9775399,
+          6.5776476,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 25,
+        "operator": "Private",
+        "name": "Ebute Lekki"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4670405,
+          6.4479942,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 26,
+        "operator": "Private",
+        "name": "White Sand Oyingbo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3883303,
+          6.4769088,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 27,
+        "operator": "Private",
+        "name": "Amuwo jetty Ojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2035374,
+          6.453853,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 28,
+        "operator": "Private",
+        "name": "Apa Waterfront Badagry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8246502,
+          6.4375869,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 29,
+        "operator": "Private",
+        "name": "VIP Charlet Waterfront Badagry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9006206,
+          6.4095965,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 30,
+        "operator": "Private",
+        "name": "Ijede Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5890471,
+          6.5632172,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 31,
+        "operator": "Private",
+        "name": "Oke Ira-Nla Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5792354,
+          6.4905465,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 32,
+        "operator": "Private",
+        "name": "Ebute Ero"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3825039,
+          6.4628531,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 33,
+        "operator": "Private",
+        "name": "Mile 2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3085751,
+          6.4582755,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 34,
+        "operator": "Private",
+        "name": "Badore Ferry Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.614953,
+          6.512124,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 35,
+        "operator": "Private",
+        "name": "Boat Club"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.409454,
+          6.4429111,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 36,
+        "operator": "Private",
+        "name": "Ogogoro Village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3941357,
+          6.4282422,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 37,
+        "operator": "Private",
+        "name": "Ito Agan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3837602,
+          6.4326195,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 38,
+        "operator": "Private",
+        "name": "Tamaro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3657654,
+          6.4156974,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 39,
+        "operator": "Private",
+        "name": "KabaKaba Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3733927,
+          6.4311226,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 40,
+        "operator": "Private",
+        "name": "Ilashe Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2055711,
+          6.40667,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 41,
+        "operator": "Private",
+        "name": "Ganyingbo Topa Waterways Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8522655,
+          6.423654,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 42,
+        "operator": "Private",
+        "name": "Sagbokoji Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3834109,
+          6.434112,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 43,
+        "operator": "Private",
+        "name": "Slave Route Landing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8836426,
+          6.4113884,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 44,
+        "operator": "Private",
+        "name": "Tarkwa Bay Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3965995,
+          6.4010654,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 45,
+        "operator": "Private",
+        "name": "Tolu Ajegunle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3547922,
+          6.4396574,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 46,
+        "operator": "Private",
+        "name": "Eputu Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7151988,
+          6.4828966,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 47,
+        "operator": "Private",
+        "name": "Ijon Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.201736,
+          6.5631978,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 48,
+        "operator": "Private",
+        "name": "Abomiti-Nla Epe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0965242,
+          6.5132175,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 49,
+        "operator": "Private",
+        "name": "Irewe Jetty Ojo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.152976,
+          6.4244696,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 50,
+        "operator": "Private",
+        "name": "Akarakumo Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9544192,
+          6.4107553,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 51,
+        "operator": "Private",
+        "name": "Olowo Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3683852,
+          6.4335996,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 52,
+        "operator": "Private",
+        "name": "Epeme Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0504744,
+          6.4161449,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 53,
+        "operator": "Private",
+        "name": "Tekunle Epe Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9908226,
+          6.5821311,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 54,
+        "operator": "Private",
+        "name": "Igbogbele Jetty Badagry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7798856,
+          6.4432466,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 55,
+        "operator": "Private",
+        "name": "Emina-Saga Jetty Epe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.0828507,
+          6.5463207,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 56,
+        "operator": "Private",
+        "name": "Topo Island Badagry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9313645,
+          6.4085379,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 57,
+        "operator": "Private",
+        "name": "Ejirin Jetty, Agbowa/Ikosi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7062782,
+          6.6124534,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 58,
+        "operator": "Private",
+        "name": "Iworo Ajido"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0078911,
+          6.4137857,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 59,
+        "operator": "Private",
+        "name": "Etegbin Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.143799,
+          6.4496615,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 60,
+        "operator": "Private",
+        "name": "Snake Island Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3345456,
+          6.4274326,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 61,
+        "operator": "Private",
+        "name": "Tin Can Island Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3379092,
+          6.4308708,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 62,
+        "operator": "Private",
+        "name": "Tarzan Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6054388,
+          6.5151312,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 63,
+        "operator": "Private",
+        "name": "Osborne Ferry Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4174567,
+          6.4641704,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 64,
+        "operator": "Private",
+        "name": "Ebute Ojo/Sifax Ferry Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2055781,
+          6.453045,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 65,
+        "operator": "Private",
+        "name": "Ijegun Egba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.258691,
+          6.427831,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 66,
+        "operator": "Private",
+        "name": "Agboyi 3/Oko Agbon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4108125,
+          6.5798309,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 67,
+        "operator": "Private",
+        "name": "Agboyi 2 stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4084039,
+          6.5802865,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 68,
+        "operator": "Private",
+        "name": "Alluvia Marine Jetty/Afisco Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4590768,
+          6.4475959,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 69,
+        "operator": "Private",
+        "name": "Manager Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.370626,
+          6.4299577,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 70,
+        "operator": "Private",
+        "name": "Coconut Landing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3358558,
+          6.4379208,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 71,
+        "operator": "Private",
+        "name": "Allens Unit / Alex Apapa Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3700913,
+          6.4346659,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 72,
+        "operator": "Private",
+        "name": "Bariga Waterfront Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3999032,
+          6.528356,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 73,
+        "operator": "Private",
+        "name": "Ferry Port/Checkpoint Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4041996,
+          6.4405074,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 74,
+        "operator": "Private",
+        "name": "Oke Ira Nla (Ajah Jetty)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.580022,
+          6.4899975,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 75,
+        "operator": "Private",
+        "name": "Agboyi Ketu Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.407633,
+          6.5823332,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 76,
+        "operator": "Private",
+        "name": "Addax/Sandfill/Maroko Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4418,
+          6.43684,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 77,
+        "operator": "Private",
+        "name": "Ijede Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5893751,
+          6.5631737,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 78,
+        "operator": "Private",
+        "name": "Olookan stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4096146,
+          6.5796628,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 79,
+        "operator": "Private",
+        "name": "Agboyi 1 stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4081684,
+          6.5824155,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "terminal_id": 80,
+        "operator": "Private",
+        "name": "Ajah Jetty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.561368482648124,
+          6.474177789377767,
+          0.0
+        ]
+      }
     }
   ]
 }
