@@ -4721,11 +4721,6 @@
             "Operating_Hours": "8AM - 7PM",
             "Frequency": "Every 30 minutes",
             "Fare": "1000"
-          },
-          "Public": {
-            "Operating_Hours": "7AM - 6PM",
-            "Frequency": "Twice in morning and twice in evening",
-            "Fare": "500"
           }
         },
         "route_name": "Offin - Ebute Ero - Marina/CMS",
