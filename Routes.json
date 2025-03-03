@@ -2386,7 +2386,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": []
+        "coordinates": [[0,0],[0.5,0.5]]
       }
     },
     {
@@ -8935,7 +8935,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": []
+        "coordinates": [[0,0],[0.5,0.5]]
       }
     },
     {
@@ -9807,7 +9807,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": []
+        "coordinates": [[0,0],[0.5,0.5]]
       }
     },
     {
@@ -10420,7 +10420,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": []
+        "coordinates": [[0,0],[0.5,0.5]]
       }
     },
     {
@@ -10453,7 +10453,7 @@
       },
       "geometry": {
         "type": "LineString",
-        "coordinates": []
+        "coordinates": [[0,0],[0.5,0.5]]
       }
     },
     {
