@@ -1,0 +1,2161 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.37498390000000015 6.44753790000000038 0)",
+        "ferry_stop_id": "10",
+        "name": "Apapa Flour Mill Jetty",
+        "google_maps_url": " https://maps.app.goo.gl/CUgKrY5nLbSeYfoP8 ",
+        "image_url": "https://drive.google.com/file/d/1IGLeyhLlHueWBQGgHsnyCgnG_TBKqhqD/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/10_Apapa_flour_mill.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Terminal",
+        "layer": "points - active public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3749839,
+          6.4475379,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.32326626819959392 6.4307724136569604 0)",
+        "ferry_stop_id": "11",
+        "name": "Igbologun Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/13G3LLBcGGpU7CXKA",
+        "image_url": "https://drive.google.com/file/d/1PW-etLQJ3FxjOpv2cHHkc9LqLbr5kaLp/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/11_Igbologun.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "points - active public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.323266268199594,
+          6.43077241365696,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.50101970000000007 6.53932730000000006 0)",
+        "ferry_stop_id": "12",
+        "name": "Offin Jetty, Ikorodu",
+        "google_maps_url": "https://maps.app.goo.gl/KfstRmy6v99tTBSv6",
+        "image_url": "https://drive.google.com/file/d/1jDLeRCFjxLe9YwuXf29GEf-SgHxwT36D/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/12_Offin_Jetty.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Terminal",
+        "layer": "points - active public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5010197,
+          6.5393273,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.47287349999999995 6.55238910000000008 0)",
+        "ferry_stop_id": "13",
+        "name": "Ibeshe Ferry Terminal/Thesaurus Ferry Terminal",
+        "google_maps_url": "https://maps.app.goo.gl/tiSt4NbDpn54x4hi8",
+        "image_url": "https://drive.google.com/file/d/1u1pguwAUv2mFmn9ygRSwbNvG781hVlec/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/13_Ibeshe_Terminal.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Terminal",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4728735,
+          6.5523891,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.30773660000000014 6.45906640000000021 0)",
+        "ferry_stop_id": "14",
+        "name": "Mile 2 / NIWA jetty",
+        "google_maps_url": "https://maps.app.goo.gl/K7iKJGvDXjqGAJxU6 ",
+        "image_url": "https://drive.google.com/file/d/1ZisYG5NWvv4u7pper33URR3UrBa7zAP_/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/14_Mile_2_Jetty.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3077366,
+          6.4590664,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35923650000000018 6.43907930000000039 0)",
+        "ferry_stop_id": "15",
+        "name": "Liverpool (Apapa)",
+        "google_maps_url": "https://maps.app.goo.gl/qztS4s8s4QsCS9gZ9 ",
+        "image_url": "https://drive.google.com/file/d/1cire1vUccLCd-X46GUp89HW3lYIWI1MU/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/15_Liverpool(Apapa).jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Terminal",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3592365,
+          6.4390793,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.38248119999999997 6.46274100000000029 0)",
+        "ferry_stop_id": "16",
+        "name": "Ebute Ero",
+        "google_maps_url": " https://maps.app.goo.gl/2Rcwh9xQ19TxAgFo6 ",
+        "image_url": "https://drive.google.com/file/d/1olXbrWMxnjg3vdqf2YOJaj9GlHXuaCGi/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/16_Ebute_Ero.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3824812,
+          6.462741,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.3897946000000001 6.44957090000000033 0)",
+        "ferry_stop_id": "17",
+        "name": "Marina/CMS",
+        "google_maps_url": "https://maps.app.goo.gl/3MymgiMhXsb4Yoae6 ",
+        "image_url": "https://drive.google.com/file/d/13lme45RAkao2Q1ZZnzGmkWIXw3bP0EJ8/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/17_CMS%3AMarina.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Landing",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3897946,
+          6.4495709,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.42717999400154083 6.44209517357953843 0)",
+        "ferry_stop_id": "18",
+        "name": "Five Cowries/Falomo/Ise Water",
+        "google_maps_url": "https://maps.app.goo.gl/RQPmE1RQEQBhnCCf7",
+        "image_url": "https://drive.google.com/file/d/1L8NGEI0D0TGs98_DI1UDyZo7YIzMuq5S/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/18_Falomo%3AFive%20cowries.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Landing",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.427179994001541,
+          6.442095173579538,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.55306899999999981 6.53613900000000037 0)",
+        "ferry_stop_id": "19",
+        "name": "Baiyeku Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/ASdVgc1UYJnj92HR7",
+        "image_url": "https://drive.google.com/file/d/1MHAO5JxYJZGIXjN42jJ1R1DJhDszZrnl/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/19_Baiyeku_Jetty.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Landing",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553069,
+          6.536139,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.48623040000000017 6.60183199999999992 0)",
+        "ferry_stop_id": "20",
+        "name": "Ikorodu Ferry Terminal",
+        "google_maps_url": "https://maps.app.goo.gl/Zpf1CzKsF8F5dRyW7",
+        "image_url": "https://drive.google.com/file/d/1aYbjuk-ky-7hcW6IS4vkQyu78JiF-_Y0/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/20_Ikorodu_Ferry_Terminal.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4862304,
+          6.601832,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.40754059999999992 6.58253060000000012 0)",
+        "ferry_stop_id": "22",
+        "name": "Agboyi Ketu",
+        "google_maps_url": "https://maps.app.goo.gl/JJgFfFNMDPkXc7c56 ",
+        "image_url": "https://drive.google.com/file/d/1V-52QeCMUgXWnGmZCqohUeflClQK589m/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/22_Agboyi_Ketu.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Future",
+        "passenger": "Yes",
+        "ownership": "Future - Public",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4075406,
+          6.5825306,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.58904710000000016 6.56321720000000042 0)",
+        "ferry_stop_id": "30",
+        "name": "Ijede Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/HVJFD62oxKqrFZg39 ",
+        "image_url": "https://drive.google.com/file/d/1kx_1raCIHKvoVM0UH7bXnKMahAl__OtR/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/30_Ijede_Jetty.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Future - Public",
+        "type": "Terminal",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5890471,
+          6.5632172,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.61495299999999986 6.51212400000000002 0)",
+        "ferry_stop_id": "34",
+        "name": "Badore Ferry Terminal",
+        "google_maps_url": "https://maps.app.goo.gl/bDhoL4FzjHaBv5437",
+        "image_url": "https://drive.google.com/file/d/1wIW0Jr-A9KMDpK5llWnWmcfW50xKD552/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/34_Badore_Terminal.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Terminal",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.614953,
+          6.512124,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.40945400000000021 6.44291109999999989 0)",
+        "ferry_stop_id": "35",
+        "name": "Boat Club",
+        "google_maps_url": "https://maps.app.goo.gl/YKRSGuW3eLbMTtND9",
+        "image_url": "https://drive.google.com/file/d/1e7BzQIVLD-m4KErzzeSk3ORTdFtmR1SP/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/35_Boat_Club.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.409454,
+          6.4429111,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.39413570000000009 6.42824219999999968 0)",
+        "ferry_stop_id": "36",
+        "name": "Ogogoro Village",
+        "google_maps_url": "https://maps.app.goo.gl/3cpEL28rNN9gsb5S8",
+        "image_url": "https://drive.google.com/file/d/1Ue6996b_MK1ehpM8pPAeQL-7e6HnZa3z/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/36_Ogogoro_Village.jpeg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3941357,
+          6.4282422,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35924017936988895 6.42766730632369043 0)",
+        "ferry_stop_id": "37",
+        "name": "Ito Agan",
+        "google_maps_url": "https://maps.app.goo.gl/1WDZaPa66xqZGYG69 ",
+        "image_url": "https://drive.google.com/file/d/161OZwcZ3L9emKE9Lz61A7ijT2v7FyCLo/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/37_Ito_Agan.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.359240179369889,
+          6.42766730632369,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.36245387739948987 6.41809408354718158 0)",
+        "ferry_stop_id": "38",
+        "name": "Tamaro",
+        "google_maps_url": "https://maps.app.goo.gl/xuiDVNrsQ5zADRwH9 ",
+        "image_url": "https://drive.google.com/file/d/1BbbX3WAslV1_Ff15OXFy_5mZbQJm3fKQ/view?usp=sharing",
+        "github_url": "-",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.36245387739949,
+          6.418094083547182,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.37339270000000013 6.43112260000000013 0)",
+        "ferry_stop_id": "39",
+        "name": "KabaKaba Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/PxYnadUbtDYp4Sdc6 ",
+        "image_url": "https://drive.google.com/file/d/1x8Ok3tyZDs2o8VDFrsAWgzJMoxhY9Sco/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/39_Kabakaba_Jetty.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3733927,
+          6.4311226,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.20557109999999978 6.40667000000000009 0)",
+        "ferry_stop_id": "40",
+        "name": "Ilashe jetty",
+        "google_maps_url": "https://maps.app.goo.gl/jpZ4VRW6odT4DeJK9",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2055711,
+          6.40667,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.37696886538646579 6.43277977047535909 0)",
+        "ferry_stop_id": "42",
+        "name": "Sagbokoji Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/dGUBBjDoHVCvZ1KN8 ",
+        "image_url": "https://drive.google.com/file/d/1LBDmfaAY8XXO0lugy96LXpL-nmBKcnQs/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/42_Sagbikoji.jpeg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.376968865386466,
+          6.432779770475359,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.39659950000000022 6.40106540000000024 0)",
+        "ferry_stop_id": "44",
+        "name": "Tarkwa Bay Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/RkMC1bmDt4zcemCa8",
+        "image_url": "https://drive.google.com/file/d/13virp8EkzgXbxFIYSU4O8KK_hjAWjTtv/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/44_Tarkwa_Bay.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3965995,
+          6.4010654,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35479219999999989 6.43965739999999975 0)",
+        "ferry_stop_id": "45",
+        "name": "Tolu Ajegunle",
+        "google_maps_url": "https://maps.app.goo.gl/oCGsAzGVUuQtw8vk8 ",
+        "image_url": "https://drive.google.com/file/d/1-EzZMgYMxiMGV3O8IDJp8pLmo6_soaPP/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/45_Tolu_Ajegunle.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "No info yet",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3547922,
+          6.4396574,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.15297599999999978 6.42446960000000011 0)",
+        "ferry_stop_id": "49",
+        "name": "irewe jetty ojo",
+        "google_maps_url": "https://maps.app.goo.gl/7b7p2W4A5AGq4er97",
+        "image_url": "https://drive.google.com/file/d/1kETgSWWKQ4Wh1WBAzgkJi9pijBDqleEA/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/49_Irewe.png",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.152976,
+          6.4244696,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.14392651072956886 6.4494166342626853 0)",
+        "ferry_stop_id": "59",
+        "name": "Etegbin Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/DrKxHcT7J6jtv6zX8 ",
+        "image_url": "https://drive.google.com/file/d/1RPm20UdyRFCc4aub3eNN2rCBIvW837eM/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/59_Etegbin.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "No info yet",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.143926510729569,
+          6.449416634262685,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.33454560000000022 6.42743260000000038 0)",
+        "ferry_stop_id": "60",
+        "name": "Snake Island Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/VJetkHmt7mQZa3a36 ",
+        "image_url": "https://drive.google.com/file/d/1PW-etLQJ3FxjOpv2cHHkc9LqLbr5kaLp/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/60_Snake_Island.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3345456,
+          6.4274326,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.60543879999999994 6.5151311999999999 0)",
+        "ferry_stop_id": "62",
+        "name": "Tarzan Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/C86HkQBxKBDYjVDZ7",
+        "image_url": "https://drive.google.com/file/d/1nxkynk9yZVRQhRtRRMqfjV3yS_RQgvG4/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/62_Tarzan_Jetty.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "No info yet",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6054388,
+          6.5151312,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.41745669999999979 6.46417040000000043 0)",
+        "ferry_stop_id": "63",
+        "name": "Osborne Ferry Terminal",
+        "google_maps_url": "https://maps.app.goo.gl/S8whyPjxG8saivQH8",
+        "image_url": "https://drive.google.com/file/d/1kZEjf0Hnz_ZfGkUPsq_1klUJZD5--fgV/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/63_Osborne.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Not Started",
+        "passenger": "No info yet",
+        "ownership": "Public",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4174567,
+          6.4641704,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.20557809999999987 6.45304500000000036 0)",
+        "ferry_stop_id": "64",
+        "name": "Ebute Ojo/Sifax Ferry Terminal",
+        "google_maps_url": "https://maps.app.goo.gl/f3p9vrz7V6oaFDzHA ",
+        "image_url": "https://drive.google.com/file/d/1-5DzYeGFi8whAuSPnhxYOh16Jnhb_t3g/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/64_Ebute_Ojo.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "No info yet",
+        "ownership": "Public",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2055781,
+          6.453045,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.25869099999999978 6.42783100000000029 0)",
+        "ferry_stop_id": "65",
+        "name": "Ijegun Egba",
+        "google_maps_url": "https://maps.app.goo.gl/yxmFu7GYTrtXRbiH6 ",
+        "image_url": "https://drive.google.com/file/d/1pQsZp24ZCrmytNBFiGOHfwGxOLGN5HYi/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/65_Ijegun_Egba.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "No info yet",
+        "ownership": "Public",
+        "type": "nan",
+        "layer": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.258691,
+          6.427831,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.41081250000000002 6.57983090000000015 0)",
+        "ferry_stop_id": "66",
+        "name": "Agboyi 3/Oko Agbon",
+        "google_maps_url": "https://maps.app.goo.gl/LRQdm1zhz3YwZa7X8",
+        "image_url": "https://drive.google.com/drive/u/0/folders/1p97pbchKQkADs_Q_dFeKEPHG3CZXl0mMKOrkOU_wScdAlV5TQIviyEaBs7Qj5Eae6UhS3pRu",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/66_Oko_Agbon.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4108125,
+          6.5798309,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.40840390000000015 6.58028649999999971 0)",
+        "ferry_stop_id": "67",
+        "name": "Agboyi 2 stop",
+        "google_maps_url": "https://maps.app.goo.gl/oRxFS5LWKDXbLVz68",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4084039,
+          6.5802865,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.45907680000000006 6.4475958999999996 0)",
+        "ferry_stop_id": "68",
+        "name": "Alluvia Marine Jetty/Afisco Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/JEudcdbSgdGoFBZPA ",
+        "image_url": "https://drive.google.com/file/d/1dl5vdKL0C2vEdcM4Aj-APK7FMCEHusS3/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/68_Alluvia_Marine.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4590768,
+          6.4475959,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.37091073601731006 6.42998603272336933 0)",
+        "ferry_stop_id": "69",
+        "name": "Manager Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/fz7pQFtFQc1FD4mr8",
+        "image_url": "https://drive.google.com/file/d/1ZumDg5F_SPVY0NglXL2zFEWmzJ5DlN9c/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/69_Manager_Jetty.jpeg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.37091073601731,
+          6.429986032723369,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.33585580000000004 6.43792079999999967 0)",
+        "ferry_stop_id": "70",
+        "name": "Coconut Landing",
+        "google_maps_url": "https://maps.app.goo.gl/sjRn4QH1HYcvmFu18",
+        "image_url": "https://drive.google.com/file/d/1TZoKFmLkVC4Y8rFtAFyQ7QcM6GB3rJdJ/view?usp=sharing",
+        "github_url": "nan",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3358558,
+          6.4379208,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.3700912999999999 6.43466589999999972 0)",
+        "ferry_stop_id": "71",
+        "name": "Allens Unit / Alex Apapa Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/1PqFuT8EjePVpBqH6",
+        "image_url": "https://drive.google.com/file/d/1ClmErcYJ-6WYWiIkKAaLk5--CMdbza_v/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/71_Allens_Unit.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3700913,
+          6.4346659,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.39990319999999979 6.5283559999999996 0)",
+        "ferry_stop_id": "72",
+        "name": "Bariga Waterfront Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/3MxDTfA7pX6eMHFi6 ",
+        "image_url": "https://drive.google.com/file/d/12NXbBlqL9zeftmrwFxt_BXVrYXfucosS/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/72_Bariga_waterfront.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3999032,
+          6.528356,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.4041996000000001 6.44050740000000044 0)",
+        "ferry_stop_id": "73",
+        "name": "Ferry Port/Checkpoint Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/iKvGKUbU257FGiwe9",
+        "image_url": "https://drive.google.com/file/d/1pK8bob3zdvSaaUMrOoCVg0aHiJBxghhz/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/73_Ferry_Port.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4041996,
+          6.4405074,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.58002200000000004 6.48999750000000031 0)",
+        "ferry_stop_id": "74",
+        "name": "Oke Ira Nla (Ajah Jetty)",
+        "google_maps_url": "https://maps.app.goo.gl/urY3FKoeGkJs1qra7",
+        "image_url": "https://drive.google.com/file/d/1oJQjYY--Lm6kR8Zjr_5Trkc7xltykc0u/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/74_Ajah_Jetty.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "-",
+        "layer": "-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.580022,
+          6.4899975,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.44180000000000019 6.43684000000000012 0)",
+        "ferry_stop_id": "76",
+        "name": "Addax/Sandfill/Maroko Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/rVE9vKquB1FtT2Ao6 ",
+        "image_url": "https://drive.google.com/file/d/18mcaPxzccR63cWEIZbQ4BbfhE915PUR7/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/76_Sandfill.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "nan",
+        "layer": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4418,
+          6.43684,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.4081684000000001 6.58241549999999975 0)",
+        "ferry_stop_id": "79",
+        "name": "Agboyi 1 stop",
+        "google_maps_url": "https://maps.app.goo.gl/7TWqE1z2QLVoyeL48",
+        "image_url": "https://drive.google.com/drive/u/0/folders/1p97pbchKQkADs_Q_dFeKEPHG3CZXl0mMKOrkOU_wScdAlV5TQIviyEaBs7Qj5Eae6UhS3pRu",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/79_Agboyi1.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4081684,
+          6.5824155,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.60019587819381393 6.5602161301237194 0)",
+        "ferry_stop_id": "81",
+        "name": "Egbin Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/eowmqSouCKZAKuho8",
+        "image_url": "https://drive.google.com/file/d/145n4nR_DSNBJr7Z8YJ3_mi_68lJn3e8k/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/81_Egbin.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.600195878193814,
+          6.560216130123719,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.63609975439736788 6.57130516722888292 0)",
+        "ferry_stop_id": "82",
+        "name": "Gberigbe jetty",
+        "google_maps_url": "https://maps.app.goo.gl/Etp9x8RgpooLppbd7",
+        "image_url": "https://drive.google.com/file/d/1gjXwvEy0vLYHRa4sBa5WHY0Kl9b3Nwp2/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/82_Gberigbe.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.636099754397368,
+          6.571305167228883,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.2553459848352202 6.42495050323069261 0)",
+        "ferry_stop_id": "83",
+        "name": "Ibasa jetty",
+        "google_maps_url": "https://maps.app.goo.gl/vYxgUUNa5G5KFT3L8",
+        "image_url": "https://drive.google.com/file/d/1CV1CptmjWZNUS8BZAgbFu-kCPIf0YV2q/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/83_Ibasa_Jetty.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.25534598483522,
+          6.424950503230693,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.2622775829011319 6.42567162903295586 0)",
+        "ferry_stop_id": "84",
+        "name": "Second Rainbow Landing",
+        "google_maps_url": "https://maps.app.goo.gl/H1hc4DGtHLHE6SCc9",
+        "image_url": "https://drive.google.com/file/d/1lrljCSyZFe0l9Wsfckn7vAG0bBnuhmQx/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/84_Second_Rainbow.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.262277582901132,
+          6.425671629032956,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.25997641096888513 6.40779614096888572 0)",
+        "ferry_stop_id": "85",
+        "name": "Olu landing",
+        "google_maps_url": "https://maps.app.goo.gl/FP6xesMSdzXFNca49",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.259976410968885,
+          6.407796140968886,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.20424548082360605 6.45317602242961286 0)",
+        "ferry_stop_id": "86",
+        "name": "Ojo market waterside",
+        "google_maps_url": "https://maps.app.goo.gl/7XQRVKoHBtE4YEpx5",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.204245480823606,
+          6.453176022429613,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.19931337987139885 6.41964077636037089 0)",
+        "ferry_stop_id": "87",
+        "name": "Iyagbe jetty",
+        "google_maps_url": "https://maps.app.goo.gl/n16X3Rc8SQV7USi87",
+        "image_url": "https://drive.google.com/file/d/1yvE6qqU1nvffpspTSeaoPXYRIMju_WJN/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/87_Iyagbe.png",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.199313379871399,
+          6.419640776360371,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35116241102193602 6.45039385717159597 0)",
+        "ferry_stop_id": "88",
+        "name": "3A embassy waterside",
+        "google_maps_url": "https://maps.app.goo.gl/Cvenmu7UuGbo6Hxz6",
+        "image_url": "https://drive.google.com/file/d/1IAOVh3_mu6307chtYZvW0SgERsvYIPp3/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/88_No3A_Embassy_waterside.jpeg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.351162411021936,
+          6.450393857171596,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "nan",
+        "ferry_stop_id": "89",
+        "name": "Charter",
+        "google_maps_url": "-",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "-",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.26166339218483214 6.40757448869764978 0)",
+        "ferry_stop_id": "90",
+        "name": "Ibese Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/L4pqTGttjygG8dSe8",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.261663392184832,
+          6.40757448869765,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.25580105000000009 6.42788582128117092 0)",
+        "ferry_stop_id": "91",
+        "name": "Cele",
+        "google_maps_url": "https://maps.app.goo.gl/APeKThH4CHLjupPeA",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.25580105,
+          6.427885821281171,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.24761811290665214 6.41565516096888544 0)",
+        "ferry_stop_id": "92",
+        "name": "Power line",
+        "google_maps_url": "https://maps.app.goo.gl/varoLHDruS5eFPJcA",
+        "image_url": "https://drive.google.com/file/d/1dcUK35xa-2OTlXNsEnod435z2OpI20QG/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/92_Powerline.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.247618112906652,
+          6.415655160968885,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.24343703999999988 6.40908126830991076 0)",
+        "ferry_stop_id": "93",
+        "name": "koko beach",
+        "google_maps_url": "https://maps.app.goo.gl/8SjfajtUKCBcxja37",
+        "image_url": "https://drive.google.com/file/d/18vjx-YQIqpqppWk-wEPFw6hBqdwpKcKf/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/93_koko_Beach.png",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.24343704,
+          6.409081268309911,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.25426916132396515 6.41135503301405318 0)",
+        "ferry_stop_id": "94",
+        "name": "Elegushi Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/jq8R2TkSBPPgyrM8A",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.254269161323965,
+          6.411355033014053,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.25246963903111697 6.41197090903111544 0)",
+        "ferry_stop_id": "95",
+        "name": "Police Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/KwYJxkK7yFPyzS3b8",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.252469639031117,
+          6.411970909031115,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.25576015484441994 6.41129807484442171 0)",
+        "ferry_stop_id": "96",
+        "name": "Ibeshe Palace jetty",
+        "google_maps_url": "https://maps.app.goo.gl/pcYFQajs6i8kASer6",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.25576015484442,
+          6.411298074844422,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.21542660353989396 6.40810006995120585 0)",
+        "ferry_stop_id": "98",
+        "name": "Uncle Ben jetty",
+        "google_maps_url": "https://maps.app.goo.gl/KR2pdEjQsAgyyoqD8",
+        "image_url": "https://drive.google.com/file/d/1ISAiXOIvlhOIfXj7-sRhYUBWyHV_SyzV/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/98_Uncle_Ben.png",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.215426603539894,
+          6.408100069951206,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.16476866761396902 6.40391906327572968 0)",
+        "ferry_stop_id": "101",
+        "name": "Agaja jetty",
+        "google_maps_url": "https://maps.app.goo.gl/udbPEqvt2TH1Uxpd6",
+        "image_url": "https://drive.google.com/file/d/1dI2us9Z1lChHsvltvETk9Tn5oZL4kCPW/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/101_Agaja.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.164768667613969,
+          6.40391906327573,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.3983043022102728 6.41912112473511343 0)",
+        "ferry_stop_id": "102",
+        "name": "Store jetty",
+        "google_maps_url": "https://maps.app.goo.gl/ovT5WPaHqGGZS4fp6",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "nan",
+        "type": "Jetty",
+        "layer": "points - Active non-passenger and non-active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.397010355605337,
+          6.419085361028272,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.40484100428325398 6.43592369657811858 0)",
+        "ferry_stop_id": "104",
+        "name": "Bonny Camp",
+        "google_maps_url": "https://maps.app.goo.gl/i6CFs82tCxyJCELs8",
+        "image_url": "https://drive.google.com/file/d/1xZqnhZTzUIkOV7MwNGLp6B9ux8WWzT-i/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/104_Bonny_Camp.jpeg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.404841004283254,
+          6.435923696578119,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.14154759579893517 6.44736494579893638 0)",
+        "ferry_stop_id": "105",
+        "name": "Egan landing",
+        "google_maps_url": "https://maps.app.goo.gl/u97wxexEK53QzjUp8",
+        "image_url": "https://drive.google.com/file/d/1CZ7ARQpIxD3v4Olh4sSzSKR9QEGvZJQn/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/105_Egan_landing.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.141547595798935,
+          6.447364945798936,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.14424907579893498 6.44970575260319556 0)",
+        "ferry_stop_id": "106",
+        "name": "Ese Ofin jetty",
+        "google_maps_url": "https://maps.app.goo.gl/u2bAU2HDTwTqg1929",
+        "image_url": "https://drive.google.com/file/d/1O7ECrAvNLOLp496BMSiHGn-V9Xjdj0To/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/106_Ese_Offin.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.144249075798935,
+          6.449705752603196,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.23814122239291891 6.41763342717875496 0)",
+        "ferry_stop_id": "107",
+        "name": "ikare palace jetty",
+        "google_maps_url": "https://maps.app.goo.gl/MVg9ngjJfcTD2UVu6",
+        "image_url": "https://drive.google.com/file/d/1Yy2LRQg_cO-xWL8oG6T2W7meavbOudi2/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/107_Ikare_palace.png",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.238141222392919,
+          6.417633427178755,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.23674734746430603 6.41733646210736719 0)",
+        "ferry_stop_id": "108",
+        "name": "ikare town landing",
+        "google_maps_url": "https://maps.app.goo.gl/SSQ1XkMnA3ZCH86t9",
+        "image_url": "https://drive.google.com/file/d/10niNg6ZTuESt3uT3OWnUuC-3FUecmUJn/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/108_Ikare_town_landing.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.236747347464306,
+          6.417336462107367,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.22363610031308712 6.4060649821232154 0)",
+        "ferry_stop_id": "109",
+        "name": "salt beach jetty",
+        "google_maps_url": "https://maps.app.goo.gl/71HF1YuEsPRRvoxKA",
+        "image_url": "https://drive.google.com/file/d/16ndM3b45FH83n2X6jablsDFjY6XqTogX/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/109_Salt_Beach.png",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.223636100313087,
+          6.406064982123215,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.21632152152954598 6.40774222541136407 0)",
+        "ferry_stop_id": "110",
+        "name": "mikano jetty",
+        "google_maps_url": "https://maps.app.goo.gl/oBtY5TcnSDEvAJp37",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.216321521529546,
+          6.407742225411364,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.42533034543749704 6.43955589228125191 0)",
+        "ferry_stop_id": "111",
+        "name": "Law school",
+        "google_maps_url": "https://maps.app.goo.gl/RV8bv4tEvwDtYZp67",
+        "image_url": "-",
+        "github_url": "-",
+        "quality": "-",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Unknown",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.425330345437497,
+          6.439555892281252,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "nan",
+        "ferry_stop_id": "112",
+        "name": "Port Novo",
+        "google_maps_url": "https://maps.app.goo.gl/eFcoA8pUAeLBoJWh7",
+        "image_url": "-",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/112_Port_Novo.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "-",
+        "type": "Landing",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.0,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (2.87601460661191011 6.41600784667446078 0)",
+        "ferry_stop_id": "113",
+        "name": "Jegba Jetty Marina Badagry",
+        "google_maps_url": "https://maps.app.goo.gl/DXFzoLyXgefDgodR9",
+        "image_url": "https://drive.google.com/file/d/1qQvKKlJu2hskiEN_zFvuBuUlwFRI1RbG/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/113_Jegba_Jetty_Marina_Badagry.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "-",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.87601460661191,
+          6.416007846674461,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35052671734268914 6.41781526744313169 0)",
+        "ferry_stop_id": "114",
+        "name": "Jemuje",
+        "google_maps_url": "https://maps.app.goo.gl/uWv4o8iTXr7tL5mq8",
+        "image_url": "https://drive.google.com/file/d/1-QGbHreXnA8xH1qrG4aHOh5JzKlAWNfQ/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/114_Jemuje.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.350526717342689,
+          6.417815267443132,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34931887432563302 6.42220239131141923 0)",
+        "ferry_stop_id": "115",
+        "name": "Ilutuntun",
+        "google_maps_url": "https://maps.app.goo.gl/oGxRCRF3LqS4RSSMA",
+        "image_url": "https://drive.google.com/file/d/1dMny5KwN_yTLlxNz-ZKgvr6pX9rFuRlS/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/115_Ilutuntun.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.349318874325633,
+          6.422202391311419,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.3588624087921799 6.41785372729331538 0)",
+        "ferry_stop_id": "116",
+        "name": "Agojedo",
+        "google_maps_url": "https://maps.app.goo.gl/y18P8NfP8YWS5CKf8",
+        "image_url": "https://drive.google.com/file/d/1joedf9XQmLRKtHuXaIqUHiesTJ4mxNgQ/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/116_Agojedo.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35886240879218,
+          6.417853727293315,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34774632056811905 6.42635546909572675 0)",
+        "ferry_stop_id": "118",
+        "name": "Isoda",
+        "google_maps_url": "https://maps.app.goo.gl/x5toTtnMRgU6s86z8",
+        "image_url": "https://drive.google.com/file/d/1IMp___7JxsG5H-coHIpPIp5wMKDQySJx/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/118_Isoda.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.347746320568119,
+          6.426355469095727,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34414842321563199 6.4368729612342177 0)",
+        "ferry_stop_id": "123",
+        "name": "IKO/Temidire Jetty",
+        "google_maps_url": "https://maps.app.goo.gl/B8kUNoXnQyWhSYWw5",
+        "image_url": "https://drive.google.com/file/d/1xTpzdPJZCNsZjrCmfV62Iv-mt_3gOItZ/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/123_IKO_Temidire.jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.344148423215632,
+          6.436872961234218,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34928931801315821 6.44263934049671061 0)",
+        "ferry_stop_id": "124",
+        "name": "Number 1A Waterside",
+        "google_maps_url": "https://maps.app.goo.gl/fQMA6KgLgcEKJK577",
+        "image_url": "https://drive.google.com/file/d/1ehdOQ0d3dekj-wlQD93d9Qpo-9UDk-mN/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/124_No_1A_waterside.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.349289318013158,
+          6.442639340496711,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35141499999999981 6.44823065950329166 0)",
+        "ferry_stop_id": "126",
+        "name": "Number 2 Waterside",
+        "google_maps_url": "https://maps.app.goo.gl/2xGGXcX3DVJvraSH6",
+        "image_url": "https://drive.google.com/file/d/1MenNnMwP1sMXvnz2UVyR8XJrC69nvO1D/view?usp=drive_link",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/126_Number_2_Waterside.png",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.351415,
+          6.448230659503292,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34858895418007707 6.44103988806332772 0)",
+        "ferry_stop_id": "127",
+        "name": "Second Badagry",
+        "google_maps_url": "https://maps.app.goo.gl/8hhLAkBaoEaCUskC9",
+        "image_url": "https://drive.google.com/file/d/1fY3te1PxFU8F4c7uY6HCwqb_nR6ZaW2O/view?usp=sharing",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/127_Second_Badagry.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.348588954180077,
+          6.441039888063328,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34338848139088807 6.43533445751349031 0)",
+        "ferry_stop_id": "128",
+        "name": "First Gate (Tin Can Island)",
+        "google_maps_url": "https://maps.app.goo.gl/smM1emMG1cTpPouf6",
+        "image_url": "https://drive.google.com/file/d/1y8cAN3ueONPt99Tzd9BamDVCDqj27rAX/view",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/128_First_Gate(Tincan%20Island).jpg",
+        "quality": "Developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Jetty",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.343388481390888,
+          6.43533445751349,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35158094460386202 6.45041092819019202 0)",
+        "ferry_stop_id": "129",
+        "name": "Boundary (Apapa)",
+        "google_maps_url": "https://maps.app.goo.gl/KXB6PS6ZGsBuZ45Z7",
+        "image_url": "https://drive.google.com/file/d/1wQoOTKtqF0JsWIehgmbyib1hgrrbdOzg/view",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/129_Boundary(Apapa).jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Other(still need research)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.351580944603862,
+          6.450410928190192,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.34985183430576594 6.44605923712206241 0)",
+        "ferry_stop_id": "130",
+        "name": "Mogaji (Ajegunle)",
+        "google_maps_url": "https://maps.app.goo.gl/d4PvzRNLJZRJrSAU7",
+        "image_url": "https://drive.google.com/file/d/17mseLWjTGUfPK86lH20oNNJBw4hJcJP3/view",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/130_Mogaji(Ajegunle).jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Landing",
+        "layer": "ponits - Active private passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.349851834305766,
+          6.446059237122062,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.3508931088794931 6.44844008089894061 0)",
+        "ferry_stop_id": "131",
+        "name": "Kumuyi Street (Ajegunle)",
+        "google_maps_url": "https://maps.app.goo.gl/qQkX6iaS9jMGsQW57",
+        "image_url": "https://drive.google.com/file/d/1SoGHHaGrKL0RxPs6hgndfTVFoV7bt9GY/view",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/131_Kumuyi_Street(Ajegunle).jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "nan",
+        "layer": "nan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.350893108879493,
+          6.448440080898941,
+          0.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "wkt_geom": "PointZ (3.35211543463143302 6.42421762972412402 0)",
+        "ferry_stop_id": "132",
+        "name": "Igbo-Elejo",
+        "google_maps_url": "https://maps.app.goo.gl/54ZP2uqC2gCe1ny87",
+        "image_url": "https://drive.google.com/file/d/11qbwbgSOELhydV6oJ6alg0Dv5h9ERh7T/view",
+        "github_url": "https://raw.githubusercontent.com/HabibatTheAnalyst/Ferry/refs/heads/main/Ferry%20Pictures/132_Igbo_Elejo.jpg",
+        "quality": "Less developed",
+        "status_map": "in_use",
+        "status": "Completed",
+        "passenger": "Yes",
+        "ownership": "Private",
+        "type": "Terminal",
+        "layer": "points - Future public passenger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.352115434631433,
+          6.424217629724124,
+          0.0
+        ]
+      }
+    }
+  ]
+}
